@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20% 0 20%;
+}
+
+label {
+  font-size: 18px;
+  display: block;
+  padding-bottom: 10px;
+}
+
+input {
+  display: block;
+}
+
+form {
+  background-color: ccc;
+  padding
+}
+
+.form-inline {
+  display: inline-block;
+}
+
+div {
+   margin-top:5px;
+   margin-bottom:5px
+}
